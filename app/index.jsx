@@ -27,7 +27,7 @@ export default function App() {
 						<Text className='text-3xl text-white font-bold'>
 							Discover Endless Possibilities with{' '}
 							<Text className='text-secondary-200'>
-								Aura
+								Aora
 							</Text>
 						</Text>
 						<Image
